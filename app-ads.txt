@@ -71,7 +71,3 @@ video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 telaria.com, rwd19-3395689, RESELLER, 1a4e959a1b50034a
 
 tremorhub.com, rwd19-3395689, RESELLER, 1a4e959a1b50034a
-
-Blocking
-Blocking allows you to block ads content to ensure a quality and safe experience for your players. Any content that matches the fields blocked will be blocked from appearing until the block is removed.
-You can also update blocks by uploading a CSV. Get the template by clicking here.
